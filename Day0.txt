@@ -1,0 +1,32 @@
+Data Structures and Algorithms - Roadmap
+1. Best video to understand what is DSA with real world scenario examples : https://www.youtube.com/watch?v=f3kr7wu22Pc
+2. The Roadmap which I will be refering to complete my DSA : https://roadmap.sh/datastructures-and-algorithms
+3. Another roadmap which is useful to complete my DSA: https://neetcode.io/roadmap
+4. Place where you learn and practice day to day problems: https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2
+
+Must Watch Youtube Channels to crack DSA:
+Practical Oriented Videos
+1. Abdul Bari : https://www.youtube.com/@abdul_bari
+2. Take u Forward: https://www.youtube.com/@takeUforward
+3. Free Code Camp: https://www.youtube.com/@freecodecamp
+4. Nick white [for coding questions]: https://www.youtube.com/@NickWhite
+5. Techdose: https://www.youtube.com/@techdose4u
+6. Lead Coding by FRAZ[Concept based Learning]:
+7. Neet Code [Wanna learn with Python lang only]**:https://www.youtube.com/@NeetCode
+8. Algorithms Made Easy: https://www.youtube.com/@AlgorithmsMadeEasy
+9. Clement Mihailescu: https://www.youtube.com/@clem
+10. Kevin Naughton Jr. [Specific Videos]: https://www.youtube.com/@KevinNaughtonJr
+11. Jenny's Lectures CS IT
+12. Kunal Kushwaha: https://www.youtube.com/@KunalKushwaha
+
+Aprroach:
+Take u Forward Placement Series [84 videos]: 
+Take u Forward Tree Series: https://www.youtube.com/watch?v=OYqYEM1bMK8&list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk&index=2
+Take u Forward Dynamic Forwarding: https://www.youtube.com/watch?v=tyB0ztf0DNY&list=PLgUwDviBIf0pwFf-BnpkXxs0Ra0eU2sJY&index=2
+Take u Forward Graph Series: https://www.youtube.com/watch?v=M3_pLsDdeuU&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=2
+OOPS Concept: https://www.youtube.com/watch?v=BSVKUk58K6U&list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk&index=2
+
+Strivers SDE Sheet: https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
+BLIND 75: https://www.techinterviewhandbook.org/grind75/?weeks=26&hours=40&grouping=topics&order=difficulty
+
+"DON'T STAY MORE THAN 10 MINUTES IF YOU CAN'T CODE"
