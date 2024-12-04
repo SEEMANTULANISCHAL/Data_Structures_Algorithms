@@ -1,6 +1,11 @@
 #include <iostream>
+using namespace std;
+
 int main(){
-    std::cout << "Nischal" <<std:: endl;
-    std::cout<< "Seemantula";
+    int age1;
+    int age2;
+    cin >> age1 >> age2;
+    cout << "My age is: " << age1 << "\n" << "and my friend age is: " << age2;
     return 0;
 }
+
